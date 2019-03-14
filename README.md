@@ -1,0 +1,2 @@
+# KurdBot
+Best Kurdish bot
